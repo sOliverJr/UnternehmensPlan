@@ -18,6 +18,10 @@
 - Mailsewrver einrichten
 - NAS
 - IoT
+- Datarecovery
+- Bewusstseins-Schulung
+- Repair
+- PC bauen specs
 
 
 ## Dienstleistungen
